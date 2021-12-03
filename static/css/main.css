@@ -1,0 +1,7 @@
+#getStandings #standingYear, #standingSeason {
+    margin: 30px;
+}
+
+body {
+    background-image: linear-gradient(to right, red, yellow);
+}
